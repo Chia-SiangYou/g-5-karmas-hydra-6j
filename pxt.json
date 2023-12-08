@@ -1,5 +1,6 @@
 {
     "name": "G-5 Karma's Hydra 6J",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
